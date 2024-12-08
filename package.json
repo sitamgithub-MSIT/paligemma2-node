@@ -1,0 +1,29 @@
+{
+  "name": "selfie-segmentation-node",
+  "version": "1.0.0",
+  "description": "Selfie Segmentation with MediaPipe and Hugging Face Transformers.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitamgithub-MSIT/selfie-segmentation-node.git"
+  },
+  "keywords": [
+    "transformers.js",
+    "huggingface-transformers",
+    "mediapipe",
+    "selfie-segmentation"
+  ],
+  "author": "Sitam Meur <sitammeur@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sitamgithub-MSIT/selfie-segmentation-node/issues"
+  },
+  "homepage": "https://github.com/sitamgithub-MSIT/selfie-segmentation-node#readme",
+  "dependencies": {
+    "@huggingface/transformers": "^3.1.2"
+  }
+}
