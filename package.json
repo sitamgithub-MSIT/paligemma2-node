@@ -15,7 +15,8 @@
     "transformers.js",
     "huggingface-transformers",
     "mediapipe",
-    "selfie-segmentation"
+    "selfie-segmentation",
+    "onnx"
   ],
   "author": "Sitam Meur <sitammeur@gmail.com>",
   "license": "MIT",
