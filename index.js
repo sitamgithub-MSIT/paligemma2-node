@@ -2,7 +2,7 @@
 import fs from "fs";
 import { AutoModel, RawImage, Tensor } from "@huggingface/transformers";
 
-// Get the image path from command line argumentsc:\Users\SITAM MEUR\Downloads\selfie.png
+// Get the image path from command line arguments
 const imagePath = process.argv[2];
 
 if (!imagePath) {
